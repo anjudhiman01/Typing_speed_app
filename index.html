@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Typing Speed Tester</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Typing Speed Tester</h1>
+
+    <div class="timer">Time Left: <span id="time">60</span> sec</div>
+
+    <div id="paragraph">
+      <p id="text-to-type">
+        Web development is a creative and technical process that involves building websites and applications. It includes frontend design, backend logic, and everything in between. As you learn HTML, CSS, and JavaScript, you'll gain the skills needed to bring ideas to life online.
+      </p>
+    </div>
+
+    <textarea
+      id="input-area"
+      placeholder="Start typing here..."
+      oninput="checkTyping()"
+      disabled
+    ></textarea>
+
+    <div class="buttons">
+        <button id="start-btn" onclick="startTest()">Start Test</button>
+        <button id="reset-btn" onclick="resetTest()" disabled>Reset</button>
+      </div>
+      
+
+    <div class="result" id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
