@@ -17,7 +17,7 @@ It helps users test their typing speed and accuracy by typing a given paragraph 
 ---
 
 ## Live Demo
-👉 [Click here to try it](https://techyanju.github.io/Typing_speed_app/)  
+👉 [Click here to try it](https://anjudhiman01.github.io/Typing_speed_app/)  
 
 ---
 
@@ -67,8 +67,8 @@ typing-speed-app/
 Hi! I’m **Anju Dhiman**, an MCA student and aspiring Full Stack Developer.  
 I love building responsive web apps, solving real-world problems, and sharing knowledge.
 
--  Portfolio: [techyAnju.github.io/Portfolio](https://techyAnju.github.io/Portfolio/)
--  GitHub: [github.com/techyAnju](https://github.com/techyAnju)
+-  Portfolio: [anjudhiman01.github.io/Portfolio](https://anjudhiman01.github.io/Portfolio/)
+-  GitHub: [github.com/anjudhiman01](https://github.com/anjudhiman01)
 -  LinkedIn: [linkedin.com/in/anju-dhiman01](https://linkedin.com/in/anju-dhiman01)
 
 ---
