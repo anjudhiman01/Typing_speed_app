@@ -31,7 +31,6 @@ It helps users test their typing speed and accuracy by typing a given paragraph 
 
 ## Screenshot
 
-![Typing Speed Tester Preview]
 ![image](https://github.com/user-attachments/assets/4fd5af94-2498-4d7d-8d29-e9981010f91c)
 ![image](https://github.com/user-attachments/assets/9efddf06-85c1-4fea-a336-40d894dc4ade)
 
